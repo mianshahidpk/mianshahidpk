@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mianshahidpk
+- 👋 Hi, I’m Muhammad Shahid
 - 👀 I’m interested in Android & iOS App development
 - 🌱 I’m currently learning aws and google cloud
 - 💞️ I’m looking to collaborate on Android & iOS projects
